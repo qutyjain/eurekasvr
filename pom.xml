@@ -9,7 +9,7 @@
 	<packaging>jar</packaging>
 
 	<name>eurekasvr</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Demo project for Configuring Eureka</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
